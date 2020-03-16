@@ -1,0 +1,7 @@
+C:\Users\dmaxwel9\source\interview\FizzBuzzApp\FizzBuzzApp\bin\Debug\FizzBuzzApp.exe.config
+C:\Users\dmaxwel9\source\interview\FizzBuzzApp\FizzBuzzApp\bin\Debug\FizzBuzzApp.exe
+C:\Users\dmaxwel9\source\interview\FizzBuzzApp\FizzBuzzApp\bin\Debug\FizzBuzzApp.pdb
+C:\Users\dmaxwel9\source\interview\FizzBuzzApp\FizzBuzzApp\obj\Debug\FizzBuzzApp.csproj.CoreCompileInputs.cache
+C:\Users\dmaxwel9\source\interview\FizzBuzzApp\FizzBuzzApp\obj\Debug\FizzBuzzApp.exe
+C:\Users\dmaxwel9\source\interview\FizzBuzzApp\FizzBuzzApp\obj\Debug\FizzBuzzApp.pdb
+C:\Users\dmaxwel9\source\interview\FizzBuzzApp\FizzBuzzApp\obj\Debug\FizzBuzzApp.csprojAssemblyReference.cache
