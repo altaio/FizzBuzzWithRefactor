@@ -1,0 +1,11 @@
+D:\Users\Public\tgada\Documents\Visual Studio Projects\KSUFizzBuzz\KSUFizzBuzz\bin\Debug\netcoreapp3.1\KSUFizzBuzz.exe
+D:\Users\Public\tgada\Documents\Visual Studio Projects\KSUFizzBuzz\KSUFizzBuzz\bin\Debug\netcoreapp3.1\KSUFizzBuzz.deps.json
+D:\Users\Public\tgada\Documents\Visual Studio Projects\KSUFizzBuzz\KSUFizzBuzz\bin\Debug\netcoreapp3.1\KSUFizzBuzz.runtimeconfig.json
+D:\Users\Public\tgada\Documents\Visual Studio Projects\KSUFizzBuzz\KSUFizzBuzz\bin\Debug\netcoreapp3.1\KSUFizzBuzz.runtimeconfig.dev.json
+D:\Users\Public\tgada\Documents\Visual Studio Projects\KSUFizzBuzz\KSUFizzBuzz\bin\Debug\netcoreapp3.1\KSUFizzBuzz.dll
+D:\Users\Public\tgada\Documents\Visual Studio Projects\KSUFizzBuzz\KSUFizzBuzz\bin\Debug\netcoreapp3.1\KSUFizzBuzz.pdb
+D:\Users\Public\tgada\Documents\Visual Studio Projects\KSUFizzBuzz\KSUFizzBuzz\obj\Debug\netcoreapp3.1\KSUFizzBuzz.csprojAssemblyReference.cache
+D:\Users\Public\tgada\Documents\Visual Studio Projects\KSUFizzBuzz\KSUFizzBuzz\obj\Debug\netcoreapp3.1\KSUFizzBuzz.AssemblyInfoInputs.cache
+D:\Users\Public\tgada\Documents\Visual Studio Projects\KSUFizzBuzz\KSUFizzBuzz\obj\Debug\netcoreapp3.1\KSUFizzBuzz.AssemblyInfo.cs
+D:\Users\Public\tgada\Documents\Visual Studio Projects\KSUFizzBuzz\KSUFizzBuzz\obj\Debug\netcoreapp3.1\KSUFizzBuzz.dll
+D:\Users\Public\tgada\Documents\Visual Studio Projects\KSUFizzBuzz\KSUFizzBuzz\obj\Debug\netcoreapp3.1\KSUFizzBuzz.pdb

@@ -1,0 +1,11 @@
+D:\Users\Public\tgada\Documents\Visual Studio Projects\KSUFizzBuzzWithRefactor\KSUFizzBuzzWithRefactor\bin\Debug\netcoreapp3.1\KSUFizzBuzzWithRefactor.exe
+D:\Users\Public\tgada\Documents\Visual Studio Projects\KSUFizzBuzzWithRefactor\KSUFizzBuzzWithRefactor\bin\Debug\netcoreapp3.1\KSUFizzBuzzWithRefactor.deps.json
+D:\Users\Public\tgada\Documents\Visual Studio Projects\KSUFizzBuzzWithRefactor\KSUFizzBuzzWithRefactor\bin\Debug\netcoreapp3.1\KSUFizzBuzzWithRefactor.runtimeconfig.json
+D:\Users\Public\tgada\Documents\Visual Studio Projects\KSUFizzBuzzWithRefactor\KSUFizzBuzzWithRefactor\bin\Debug\netcoreapp3.1\KSUFizzBuzzWithRefactor.runtimeconfig.dev.json
+D:\Users\Public\tgada\Documents\Visual Studio Projects\KSUFizzBuzzWithRefactor\KSUFizzBuzzWithRefactor\bin\Debug\netcoreapp3.1\KSUFizzBuzzWithRefactor.dll
+D:\Users\Public\tgada\Documents\Visual Studio Projects\KSUFizzBuzzWithRefactor\KSUFizzBuzzWithRefactor\bin\Debug\netcoreapp3.1\KSUFizzBuzzWithRefactor.pdb
+D:\Users\Public\tgada\Documents\Visual Studio Projects\KSUFizzBuzzWithRefactor\KSUFizzBuzzWithRefactor\obj\Debug\netcoreapp3.1\KSUFizzBuzzWithRefactor.csprojAssemblyReference.cache
+D:\Users\Public\tgada\Documents\Visual Studio Projects\KSUFizzBuzzWithRefactor\KSUFizzBuzzWithRefactor\obj\Debug\netcoreapp3.1\KSUFizzBuzzWithRefactor.AssemblyInfoInputs.cache
+D:\Users\Public\tgada\Documents\Visual Studio Projects\KSUFizzBuzzWithRefactor\KSUFizzBuzzWithRefactor\obj\Debug\netcoreapp3.1\KSUFizzBuzzWithRefactor.AssemblyInfo.cs
+D:\Users\Public\tgada\Documents\Visual Studio Projects\KSUFizzBuzzWithRefactor\KSUFizzBuzzWithRefactor\obj\Debug\netcoreapp3.1\KSUFizzBuzzWithRefactor.dll
+D:\Users\Public\tgada\Documents\Visual Studio Projects\KSUFizzBuzzWithRefactor\KSUFizzBuzzWithRefactor\obj\Debug\netcoreapp3.1\KSUFizzBuzzWithRefactor.pdb
